@@ -1,0 +1,6 @@
+Genre,Price,Row,Discount,Day,Hall
+Action,250,Last,10,Weekend,Multiplex
+Comdey,150,Last,15,Weekday,Multiplex
+Drama,100,Front,10,Weekend,Singlescreen
+Romance,175,Middle,10,Weekday,Multiplex
+Romance,140,Last,10,Weekend,Singlescreen
